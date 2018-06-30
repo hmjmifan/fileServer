@@ -3,7 +3,7 @@ package com.newer.fileserver;
 /**
  * 服务端
  * 
- * @author 
+ * @author 贺
  *
  */
 public class App {
