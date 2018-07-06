@@ -1,5 +1,7 @@
 package com.newer.client;
 
+
+
 /**
  * 客户端
  * 
@@ -7,7 +9,9 @@ package com.newer.client;
  *
  */
 public class App {
+	
 	public static void main(String[] args) {
-		
+		Client client = new Client();
+		client.start();
 	}
 }
